@@ -1,6 +1,3 @@
-# hardhat-fund-me-fcc
-# Hardhat Fund Me
-
 # Getting Started
 
 ## Requirements
