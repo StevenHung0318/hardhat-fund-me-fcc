@@ -31,6 +31,10 @@ module.exports = {
             chainId: 11155111,
             blockConfirmations: 6,
         },
+        localhost: {
+            url: "YOUR_LOCALHOST_RPC_URL/",
+            chainId: 31337,
+        },
     },
     solidity: {
         compilers: [
